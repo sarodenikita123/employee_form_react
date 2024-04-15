@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 0
+    },
+    {
+      "eid": "101",
+      "name": "nikita sarode",
+      "city": "Amravti",
+      "id": 1
+    },
+    {
+      "eid": "103",
+      "name": "rani sarode",
+      "city": "Karanja",
+      "education": "rani sarode",
+      "id": 3
+    }
+  ]
+}
